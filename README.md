@@ -8,7 +8,7 @@ Chào mừng đến với trang cá nhân của tôi! Tôi là sinh viên chuyê
   </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=khanhnguyeen2208@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>>
+</a>
   <a href="https://zalo.me/0931489629">
     <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo Connect" />
   </a>
