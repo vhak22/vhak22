@@ -7,7 +7,7 @@ Chào mừng đến với trang cá nhân của tôi! Tôi là sinh viên chuyê
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Connect" />
   </a>
   <a href="mailto:khanhnguyeen2208@gmail.com">
-    <img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Connect"](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Connect") />
+    <img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Connect"]/>
   </a>
   <a href="https://zalo.me/0931489629">
     <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo Connect" />
